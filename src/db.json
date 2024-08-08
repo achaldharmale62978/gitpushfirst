@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "fname": "bhwdgu",
+      "lname": "dharmale",
+      "email": "vijaybahe08@gmail.com",
+      "city": "pune",
+      "bday": "2024-05-15",
+      "pincode": "444444",
+      "id": 1
+    },
+    {
+      "cibilid": "1",
+      "cscore": "78965",
+      "cdate": "2024-05-16",
+      "remark": "good",
+      "status": "good",
+      "id": 2
+    },
+    {
+      "rid": "2",
+      "bfname": "bhwdgu",
+      "blname": "dharmale",
+      "bdate": "2024-05-23",
+      "bcity": "pune",
+      "bemail": "vijaybahe08@gmail.com",
+      "badd": "njcuybmdjkud",
+      "bzip": "444444",
+      "pcname": "pune",
+      "paname": "",
+      "phnum": "",
+      "psnum": "",
+      "dname": "",
+      "pzip": "",
+      "pstatus": "",
+      "lamount": "",
+      "tenure": "",
+      "pamount": "",
+      "remaining": "",
+      "lstatus": "",
+      "lremark": "",
+      "cname": "",
+      "cprofile": "",
+      "cmincome": "",
+      "aincome": "",
+      "cadd": "",
+      "ccity": "",
+      "atype": "",
+      "abalance": "",
+      "ahname": "",
+      "anum": "",
+      "astatus": "",
+      "id": 3
+    }
+  ]
+}

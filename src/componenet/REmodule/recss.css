@@ -1,0 +1,54 @@
+.re{
+    text-decoration: none;
+    color: black;
+   font-size: 25px;
+   font-family:'Times New Roman', Times, serif;
+}
+.heading{
+    font-family: serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 100px;
+}
+.fontfamily{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fontsize{
+    font-size: 20px;
+}
+
+.reblock{
+    background-color:rgb(198, 196, 196);
+    border-color: whitesmoke;
+
+}
+.display{
+    display: flex;
+}
+.margin{
+    margin-top: 40px;
+}
+
+.backgroundcolor{
+    background-color: rgb(211, 211, 211);
+}
+
+.caption{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.bottompadding{
+    padding-bottom: 150px;
+}
+fieldset{
+    border: double;
+    border-color:  rgb(65, 64, 64);
+    padding: 10px;
+}
+legend{
+    text-align: center;
+    color: rgb(101, 100, 100);
+}
